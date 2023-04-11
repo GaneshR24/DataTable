@@ -1,0 +1,16 @@
+html {
+  font-size: 14px;
+}
+
+body {
+  font-weight: normal;
+  padding: 0.5rem;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.card {
+  padding: 2rem;
+  border-radius: 10px;
+  margin-bottom: 0.5rem;
+}
